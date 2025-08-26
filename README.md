@@ -1,6 +1,5 @@
-# Email_Spam_Classifier
+# Email Spam Classifier
 
-Email Spam Classifier
 This repository contains an Email Spam Classifier that uses a classical machine learning approach to differentiate between "spam" and "ham" (non-spam) emails.
 
 Key Features & Technologies:
